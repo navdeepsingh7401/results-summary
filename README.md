@@ -4,6 +4,8 @@ A responsive results summary component built with HTML, CSS, and vanilla JavaScr
 
 ![Preview of the Results Summary page](./preview.jpg)
 
+![Results Summary screenshot](<./design/results summary.png>)
+
 ## Features
 
 - Responsive layout for mobile and desktop screens
@@ -34,7 +36,7 @@ Then visit [http://localhost:8000](http://localhost:8000).
 ├── assets/
 │   ├── fonts/       # Hanken Grotesk font files
 │   └── images/      # Category icons and favicon
-├── design/          # Reference design images
+├── design/          # Reference designs and Results Summary screenshot
 ├── data.json        # Sample results data
 ├── index.html       # Component markup and result rendering
 ├── style.css        # Layout, colors, and responsive styles
