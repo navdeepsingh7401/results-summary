@@ -2,7 +2,6 @@
 
 A responsive results summary component built with HTML, CSS, and vanilla JavaScript. It displays an overall score alongside category-by-category results.
 
-![Preview of the Results Summary page](./preview.jpg)
 
 ![Results Summary screenshot](<./design/results summary.png>)
 
